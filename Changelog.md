@@ -1,3 +1,7 @@
+# 2026-11-10
+
+- Added 3 hand-drawn wavetables.
+
 # 2026-10-09
 
 - Added 3 wavetables made with TripleOsciliator.
